@@ -1,0 +1,16 @@
+name: data-acquisiton
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - python
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - sqlalchemy
+  - pymysql
+  - requests
+  - bs4
